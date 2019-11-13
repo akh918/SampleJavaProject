@@ -14,7 +14,8 @@ public class SampleProgram01 {
         int a=10;
 	    System.out.println("We Are From Developer Team");
 	    String empName="Anas Raza";
-	    int a=10;
+	    String deptName="development";
+	    int b=10;
 
 	    Scanner scn = new Scanner(System.in);
       System.out.println("Enter any string");
