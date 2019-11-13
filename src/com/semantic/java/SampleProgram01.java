@@ -6,7 +6,7 @@ public class SampleProgram01 {
         int a=10;
 	    System.out.println("We Are From Developer Team");
 	    String empName="Anas Raza";
-	    int a=10;
+	    int b=10;
 
     }
 }
